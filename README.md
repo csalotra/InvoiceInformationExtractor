@@ -1,2 +1,2 @@
-# InvoiceInformationExtractor(In development)
-Developing Python utility to extract important information from specific region of document for further manipulation.
+# InvoiceInformationExtractor
+Developing Python utility to extract important information from specific region of the document for further manipulation.
